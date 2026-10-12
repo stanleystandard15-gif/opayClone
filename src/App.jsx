@@ -27,7 +27,7 @@ const App = () => {
   return (
     <>
       {/* container */}
-      <div className="container bg-black h-[90vh] w-[100vw] pl-5 pt-5 flex flex-col ">
+      <div className="container bg-black h-[90vh] w-[100vw] pl-5 pt-5 flex flex-col md:bg-blue-800 ">
         {/* 1st Section */}
         <div className="first-section bg-green-400 h-[15vh] w-[95vw] rounded-2xl grid grid-cols-2  ">
           <div className="firstGrid ml-3">
