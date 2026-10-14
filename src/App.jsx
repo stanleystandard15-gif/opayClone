@@ -29,7 +29,7 @@ const App = () => {
       {/* container */}
       <div className="container bg-black h-[90vh] w-[100vw] pl-5 pt-5 flex flex-col ">
         {/* 1st Section */}
-        <div className="first-section bg-green-400 h-[15vh] w-[95vw] rounded-2xl grid grid-cols-2 md:bg-blue-800 sm:bg-yellow-700  ">
+        <div className="first-section bg-green-400 h-[15vh] w-[95vw] rounded-2xl grid grid-cols-2 sm:bg-yellow-700  ">
           <div className="firstGrid ml-3">
             <div className="top1 pl-5 mt-3 flex items-center gap-2">
               < IoShieldCheckmark />
