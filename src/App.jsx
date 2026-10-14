@@ -36,14 +36,14 @@ const App = () => {
               <p className='text-[.9rem] text-gray-600'>Available Balance</p>
               <FaEye className='cursor-pointer' />
             </div>
-            <div className="bottom1 mt-2 pl-5 flex items-center gap-2">
+            <div className="bottom1 mt-2 pl-2 flex items-center gap-2">
               <div className="flex items-center">
                 <TbCurrencyNaira className='text-[1.4rem]' />
                 <p className='text-[1.6rem] font-bold mb-2'>1,900,506.67</p></div>
               <FaGreaterThan />
             </div>
           </div>
-          <div className="secondGrid ml-5 ">
+          <div className="secondGrid ml-2 ">
             <div className="top2 flex items-center gap-2 pl-3 mt-2">
               <p className='text-gray-600 text-[.9rem]'>Transacton History</p>
               < FaGreaterThan />
