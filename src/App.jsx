@@ -33,7 +33,7 @@ const App = () => {
           <div className="firstGrid ml-3">
             <div className="top1 pl-5 mt-3 flex items-center gap-2">
               < IoShieldCheckmark />
-              <p className='text-[.9rem] text-gray-600'>Available Balance</p>
+              <p className='text-[.5rem] text-gray-600'>Available Balance</p>
               <FaEye className='cursor-pointer' />
             </div>
             <div className="bottom1 mt-2 pl-5 flex items-center gap-2">
