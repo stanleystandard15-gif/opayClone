@@ -31,12 +31,12 @@ const App = () => {
         {/* 1st Section */}
         <div className="first-section bg-green-400 h-[15vh] w-[93vw] rounded-2xl flex flex-cols-2  ">
           <div className="firstGrid ml-2">
-            <div className="top1 pl-2 mt-3 flex items-center gap-2">
-              < IoShieldCheckmark />
+            <div className="top1 pl-1 mt-3 flex items-center gap-2">
+              < IoShieldCheckmark className='' />
               <p className='text-[.9rem] text-gray-600'>Available Balance</p>
               <FaEye className='cursor-pointer' />
             </div>
-            <div className="bottom1 mt-2 pl-2 flex items-center gap-2">
+            <div className="bottom1 mt-3 pl-1 flex items-center gap-2">
               <div className="flex items-center">
                 <TbCurrencyNaira className='text-[1.4rem]' />
                 <p className='text-[1.6rem] font-bold mb-2'>1,900,506.67</p></div>
