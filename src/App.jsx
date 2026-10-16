@@ -30,7 +30,7 @@ const App = () => {
       <div className="container bg-black h-[90vh] w-[100vw] pl-2 pt-2 flex flex-col ">
         {/* 1st Section */}
         <div className="first-section bg-green-400 h-[15vh] w-[97vw] rounded-2xl flex flex-cols-4  ">
-          <div className="firstGrid ml-2">
+          <div className="firstGrid ml-1">
             <div className="top1 pl-2 mt-3 flex items-center gap-2">
               < IoShieldCheckmark className='' />
               <p className='text-[.9rem] text-gray-600'>Available Balance</p>
@@ -43,7 +43,7 @@ const App = () => {
               <FaGreaterThan />
             </div>
           </div>
-          <div className="secondGrid ml-2 ">
+          <div className="secondGrid ml-4 ">
             <div className="top2 flex items-center gap-2 pl-1 mt-2">
               <p className='text-gray-600 text-[.9rem]'>Transacton History</p>
               < FaGreaterThan />
