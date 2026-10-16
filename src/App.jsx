@@ -44,7 +44,7 @@ const App = () => {
             </div>
           </div>
           <div className="secondGrid ml-2 ">
-            <div className="top2 flex items-center gap-2 pl-3 mt-2">
+            <div className="top2 flex items-center gap-2 pl-1 mt-2">
               <p className='text-gray-600 text-[.9rem]'>Transacton History</p>
               < FaGreaterThan />
             </div>
