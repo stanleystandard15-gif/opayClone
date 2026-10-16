@@ -44,7 +44,7 @@ const App = () => {
             </div>
           </div>
           <div className="secondGrid ml-4 ">
-            <div className="top2 flex items-center gap-2 pl-1 mt-2">
+            <div className="top2 flex items-center gap-2 pl-1 mt-3">
               <p className='text-gray-600 text-[.9rem]'>Transacton History</p>
               < FaGreaterThan />
             </div>
@@ -58,7 +58,7 @@ const App = () => {
 
 
         {/* 2nd Section */}
-        <div className="second-section bg-gray-600 h-[15vh] w-[93vw] rounded-2xl grid grid-cols-3 mt-2">
+        <div className="second-section bg-gray-600 h-[15vh] w-[97vw] rounded-2xl grid grid-cols-3 mt-2">
           <div className="user bg-black h-[7vh] w-[9vw] mt-4 ml-11 rounded-lg flex items-center justify-center">
             <BiSolidUserPin className='bg-green-500 text-[1.5rem] rounded-lg ' />
           </div>
@@ -82,7 +82,7 @@ const App = () => {
 
         {/* 3rd Section */}
 
-        <div className="third-section bg-gray-600 h-[14vh] w-[93vw] rounded-2xl mt-2">
+        <div className="third-section bg-gray-600 h-[14vh] w-[97vw] rounded-2xl mt-2">
           <div className="whole flex items-center">
             <div className="doc bg-amber-700 h-[6vh] w-[6vw] rounded-full mt-6 ml-6 flex items-center justify-center ">
               <BsPersonVcardFill className='text-yellow-400 h-[6vh] w-[4vw] ' />
@@ -101,7 +101,7 @@ const App = () => {
 
         {/* 4th Section */}
 
-        <div className="fourth-section bg-gray-600 h-[30vh] w-[93vw] rounded-2xl grid grid-cols-4 mt-2 gap-12">
+        <div className="fourth-section bg-gray-600 h-[30vh] w-[97vw] rounded-2xl grid grid-cols-4 mt-2 gap-12">
           <div className="grid1">
             <div className="airtime flex items-center justify-center bg-black h-[7vh] w-[8vw] rounded-full ml-3 mb-10 mt-6 ">
               <IoPhonePortrait className='bg-white text-[1.3rem] rounded-lg h-[5vh] flex items-center justify-center ' />
@@ -159,7 +159,7 @@ const App = () => {
         </div>
 
         {/* 5th Section */}
-        <div className="fifth-section bg-blue-300 h-[8vh] w-[93vw] rounded-2xl grid grid-cols-3 mt-2 mb-2">
+        <div className="fifth-section bg-blue-300 h-[8vh] w-[97vw] rounded-2xl grid grid-cols-3 mt-2 mb-2">
           <div className="opayy grid grid-cols-3">
             <p className='text-gray-300 ml-1'>Opay</p>
             <p className='text-gray-300 ml-1'>Opay</p>
