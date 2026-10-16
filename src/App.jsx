@@ -38,9 +38,9 @@ const App = () => {
             </div>
             <div className="bottom1 mt-3 pl-1 flex items-center gap-2">
               <div className="flex items-center">
-                <TbCurrencyNaira className='text-[1.4rem] mt-4' />
-                <p className='text-[1.2rem] font-bold mt-4 '>1,900,506.67</p></div>
-              <FaGreaterThan className='mt-4' />
+                <TbCurrencyNaira className='text-[1.4rem] mt-6' />
+                <p className='text-[1.2rem] font-bold mt-6 '>1,900,506.67</p></div>
+              <FaGreaterThan className='mt-6' />
             </div>
           </div>
           <div className="secondGrid ml-4 ">
@@ -48,7 +48,7 @@ const App = () => {
               <p className='text-gray-600 text-[.9rem]'>Transacton History</p>
               < FaGreaterThan />
             </div>
-            <div className="bottom2 mt-4 pl-1 flex items-center">
+            <div className="bottom2 mt-6 pl-1 flex items-center">
               <div className="bckgrnd bg-black h-[5vh] w-[30vw] rounded-2xl mt-2 text-green-300 flex text-[.8rem] ml-4 cursor-pointer">
                 <p className="money ml-2 flex gap-2 items-center "> <FaPlus /> Add Money </p>
               </div>
