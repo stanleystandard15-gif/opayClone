@@ -31,7 +31,7 @@ const App = () => {
         {/* 1st Section */}
         <div className="first-section bg-green-400 h-[15vh] w-[97vw] rounded-2xl flex flex-cols-4  ">
           <div className="firstGrid ml-2">
-            <div className="top1 pl-1 mt-3 flex items-center gap-2">
+            <div className="top1 pl-2 mt-3 flex items-center gap-2">
               < IoShieldCheckmark className='' />
               <p className='text-[.9rem] text-gray-600'>Available Balance</p>
               <FaEye className='cursor-pointer' />
