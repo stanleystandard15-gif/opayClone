@@ -48,7 +48,7 @@ const App = () => {
               <p className='text-gray-600 text-[.9rem]'>Transacton History</p>
               < FaGreaterThan />
             </div>
-            <div className="bottom2 mt-4 pl-5 flex items-center">
+            <div className="bottom2 mt-4 pl-1 flex items-center">
               <div className="bckgrnd bg-black h-[5vh] w-[20vw] rounded-2xl mt-2 text-green-300 flex text-[.8rem] ml-4 cursor-pointer">
                 <p className="money ml-2 flex gap-2 items-center "> <FaPlus /> Add Money </p>
               </div>
