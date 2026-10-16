@@ -39,7 +39,7 @@ const App = () => {
             <div className="bottom1 mt-3 pl-1 flex items-center gap-2">
               <div className="flex items-center">
                 <TbCurrencyNaira className='text-[1.4rem]' />
-                <p className='text-[1.6rem] font-bold mb-2'>1,900,506.67</p></div>
+                <p className='text-[1.6rem] font-bold '>1,900,506.67</p></div>
               <FaGreaterThan />
             </div>
           </div>
@@ -50,7 +50,7 @@ const App = () => {
             </div>
             <div className="bottom2 mt-2 pl-5 flex items-center">
               <div className="bckgrnd bg-black h-[5vh] w-[20vw] rounded-2xl mt-2 text-green-300 flex text-[.8rem] ml-4 cursor-pointer">
-                <p className="money ml-2 flex mb-1 gap-2 items-center"> <FaPlus /> Add Money </p>
+                <p className="money ml-2 flex gap-2 items-center"> <FaPlus /> Add Money </p>
               </div>
             </div>
           </div>
