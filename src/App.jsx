@@ -103,10 +103,10 @@ const App = () => {
 
         <div className="fourth-section bg-gray-600 h-[30vh] w-[97vw] rounded-2xl grid grid-cols-4 mt-2 gap-12">
           <div className="grid1">
-            <div className="airtime flex items-center justify-center bg-black h-[7vh] w-[8vw] rounded-full ml-3 mb-10 mt-6 ">
+            <div className="airtime flex items-center justify-center bg-black h-[7vh] w-[15vw] rounded-full ml-3 mb-10 mt-6 ">
               <IoPhonePortrait className='bg-white text-[1.3rem] rounded-lg h-[5vh] flex items-center justify-center ' />
             </div>
-            <div className="safebox flex items-center justify-center bg-black h-[7vh] w-[8vw] rounded-full ml-3">
+            <div className="safebox flex items-center justify-center bg-black h-[7vh] w-[15vw] rounded-full ml-3">
               <GiWallet className='text-white text-[1.5rem] rounded-lg h-[5vh] flex items-center justify-center ' />
             </div>
             <div className="tt1 mt-[-5rem] text-gray-300 text-[.8rem]  ">
@@ -116,10 +116,10 @@ const App = () => {
           </div>
 
           <div className="grid2">
-            <div className="data flex items-center justify-center bg-black h-[7vh] w-[8vw] rounded-full mb-10 mt-6 ">
+            <div className="data flex items-center justify-center bg-black h-[7vh] w-[15vw] rounded-full mb-10 mt-6 ">
               <MdSpeakerPhone className='bg-white text-[1.3rem] rounded-lg h-[5vh] flex items-center justify-center ' />
             </div>
-            <div className="loan flex items-center justify-center bg-black h-[7vh] w-[8vw] rounded-full">
+            <div className="loan flex items-center justify-center bg-black h-[7vh] w-[15vw] rounded-full">
               <FaHandsHoldingCircle className='text-white text-[1.5rem] rounded-lg h-[5vh] flex items-center justify-center ' />
             </div>
 
@@ -130,10 +130,10 @@ const App = () => {
           </div>
 
           <div className="grid3">
-            <div className="betting flex items-center justify-center bg-black h-[7vh] w-[8vw] rounded-full mb-10 mt-6 ">
+            <div className="betting flex items-center justify-center bg-black h-[7vh] w-[15vw] rounded-full mb-10 mt-6 ">
               <IoFootball className='text-white text-[1.5rem] rounded-lg h-[5vh] flex items-center justify-center ' />
             </div>
-            <div className="biz flex items-center justify-center bg-black h-[7vh] w-[8vw] rounded-full">
+            <div className="biz flex items-center justify-center bg-black h-[7vh] w-[15vw] rounded-full">
               <FaHouseChimneyMedical className='text-white text-[1.5rem] rounded-lg h-[5vh] flex items-center justify-center ' />
             </div>
 
@@ -144,10 +144,10 @@ const App = () => {
           </div>
 
           <div className="grid4">
-            <div className="tv flex items-center justify-center bg-black h-[7vh] w-[8vw] rounded-full mb-10 mt-6 ">
+            <div className="tv flex items-center justify-center bg-black h-[7vh] w-[15vw] rounded-full mb-10 mt-6 ">
               <MdLiveTv className='text-white  text-[1.5rem] rounded-lg h-[5vh] flex items-center justify-center ' />
             </div>
-            <div className="more flex items-center justify-center bg-black h-[7vh] w-[8vw] rounded-full">
+            <div className="more flex items-center justify-center bg-black h-[7vh] w-[15vw] rounded-full">
               <BiLayer className='text-white text-[1.5rem] rounded-lg h-[5vh] flex items-center justify-center ' />
             </div>
 
