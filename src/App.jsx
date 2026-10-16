@@ -59,13 +59,13 @@ const App = () => {
 
         {/* 2nd Section */}
         <div className="second-section bg-gray-600 h-[15vh] w-[97vw] rounded-2xl grid grid-cols-3 mt-2">
-          <div className="user bg-black h-[7vh] w-[9vw] mt-4 ml-11 rounded-lg flex items-center justify-center">
+          <div className="user bg-black h-[7vh] w-[11vw] mt-4 ml-11 rounded-lg flex items-center justify-center">
             <BiSolidUserPin className='bg-green-500 text-[1.5rem] rounded-lg ' />
           </div>
-          <div className="user bg-black h-[7vh] w-[9vw] mt-4 ml-11 rounded-lg flex items-center justify-center">
+          <div className="user bg-black h-[7vh] w-[11vw] mt-4 ml-11 rounded-lg flex items-center justify-center">
             <BsBank2 className='bg-green-500 text-[1.5rem] rounded-lg ' />
           </div>
-          <div className="user bg-black h-[7vh] w-[9vw] mt-4 ml-11 rounded-lg flex items-center justify-center">
+          <div className="user bg-black h-[7vh] w-[11vw] mt-4 ml-11 rounded-lg flex items-center justify-center">
             <TiArrowMaximise className='bg-green-500 text-[1.5rem] rounded-lg ' />
           </div>
 
